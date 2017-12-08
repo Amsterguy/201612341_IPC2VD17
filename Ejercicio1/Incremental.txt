@@ -1,0 +1,6 @@
+Metodologia incremental
+
+EN esta metodologia, a medida que se hacen avances en el 
+software, este se le lleva al cliente para verificar
+que la funcionalidad sea la que se espera y asi
+no tener un software con falta de contenido.

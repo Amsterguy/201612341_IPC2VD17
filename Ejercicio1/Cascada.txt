@@ -1,0 +1,8 @@
+Metodologia de cascada
+
+Es esta metodologia se lleva a cabo una seria de pasos
+ordenados para realizar el proyecto. Es la utlizada en
+el ciclo de vida del software. Cada paso da lugar al 
+siguiente y estos ultimos son definitivos. Por esta
+razon, es muy dificil hacer cambios a tardes etapas del
+desarrollo. 

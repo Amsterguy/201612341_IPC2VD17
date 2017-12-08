@@ -1,0 +1,8 @@
+1. Commit: Entiendo que es una manera de subir un cambio
+que pueda o no funcionar, por esta razon la version 
+cambiada no es la oficial. 
+
+2.Merge: Es unir todas las ramas, todas las funcionalidades que se trabajaron de forma separada a un mismo documento. 
+
+3. Push es oficializar los cambios de algun commit a
+el documento en el repositorio online. Pull es arrastrar desde el repositorio online a el local. 
